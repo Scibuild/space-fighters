@@ -1,0 +1,2 @@
+1072416 1453796 1622981553672454987 6ca670c315aefb1ef2a3b56c2b47a05e /home/scibuild/Dropbox/Theo_home/Programming/zig/space-fighters/zig-cache/o/cea02fb798bf750f0c771a295cf3958b/space-fighters.o
+50078 608029 1621720554894485468 358772fba32a8564a65af7b25239b732 /home/scibuild/.cache/zig/o/e5ee0d3621b66e3ea60ea07abbb3eb36/libcompiler_rt.a

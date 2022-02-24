@@ -1,0 +1,2 @@
+4203080 1452602 1623659018331032967 d61378a02815f7178804cc0f8a10ab82 /home/scibuild/Dropbox/Theo_home/Programming/zig/space-fighters/zig-cache/o/42e3202ab3e68b180a3075d8e352a4cc/build.o
+50014 609588 1623658476540125683 131c7e2a253295440dffca3b0d1460d1 /home/scibuild/.cache/zig/o/bfb3abeac35e0005b11db63121d4cf6b/libcompiler_rt.a

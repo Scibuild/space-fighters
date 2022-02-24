@@ -1,0 +1,2 @@
+4092976 1453681 1621817259557310550 741b3fb8e6a98ba5569ee5fd27389a00 /home/scibuild/Dropbox/Theo_home/Programming/zig/space-fighters/zig-cache/o/ab992da9de4b2ee034b3b06f057d4982/build.o
+50014 614878 1621130240264561031 dc32c7b5b51dc5ad9b25717076919dde /home/scibuild/.cache/zig/o/0173791e9887e58691bd8ced02d2e14c/libcompiler_rt.a

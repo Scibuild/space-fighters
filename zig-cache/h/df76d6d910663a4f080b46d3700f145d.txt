@@ -1,0 +1,2 @@
+824584 1453788 1621817076514897516 2129088a19f8ecd0fb529f77296a232d /home/scibuild/Dropbox/Theo_home/Programming/zig/space-fighters/zig-cache/o/f358dfc76df26d3634fe61b3d57f18dd/space-fighters.o
+50014 614878 1621130240264561031 dc32c7b5b51dc5ad9b25717076919dde /home/scibuild/.cache/zig/o/0173791e9887e58691bd8ced02d2e14c/libcompiler_rt.a

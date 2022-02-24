@@ -1,0 +1,2 @@
+821320 1444432 1621814558020194035 733c47fc794b46b7a55eb26ca6f53c2f /home/scibuild/Dropbox/Theo_home/Programming/zig/space-fighters/zig-cache/o/69d1fb8872775a2cf736beb0c8640b95/space-fighters.o
+50014 614878 1621130240264561031 dc32c7b5b51dc5ad9b25717076919dde /home/scibuild/.cache/zig/o/0173791e9887e58691bd8ced02d2e14c/libcompiler_rt.a
