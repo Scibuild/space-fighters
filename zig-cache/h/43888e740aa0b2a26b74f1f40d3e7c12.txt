@@ -1,2 +1,0 @@
-1126696 1449415 1623386565171639726 1b6c49aa06abc7ed50c80603abe6a9c6 /home/scibuild/Dropbox/Theo_home/Programming/zig/space-fighters/zig-cache/o/7ac6dbf30a1ea5feeb1a9a1bafa549ed/space-fighters.o
-50078 614684 1623019911126302015 fca36b2df77e45686d21d79c09e775df /home/scibuild/.cache/zig/o/53d822be17c5529f3b5f754fc11b3e1a/libcompiler_rt.a
